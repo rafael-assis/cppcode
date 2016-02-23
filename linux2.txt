@@ -1,9 +1,0 @@
-BinaryTrees
-fromLinux
-fromLinux~
-linux2.txt
-README.md
-test2.txt
-test3.txt
-test3.txt~
-test.txt
