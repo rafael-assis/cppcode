@@ -88,6 +88,9 @@
 		53F7F6F01C7D99D600925981 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Rafael Amaral de Assis";
 				TargetAttributes = {
